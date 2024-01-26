@@ -1,0 +1,261 @@
+Package: com.Ali7assan.snapper2-Rootless
+Version: 2.7.0
+Architecture: iphoneos-arm64e
+Maintainer: Ali7assan
+Installed-Size: 1840
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.ali7assan.snapper2-rootless_2.7.0_iphoneos-arm64e.deb
+Size: 681250
+MD5sum: 8a4a742ee2c64d108816e6c3d9fe1cb3
+SHA1: c364c3a00e45a05c1185aee66feb13f7b8555946
+SHA256: b223c38d76a157011d86104085ba668ef28dbcfa23cf38562a57352fb154ce1c
+Section: Roothide
+Author: Jonathan Winger-lang
+Icon: https://media.havoc.app/620537d57c5e627af05611b6?w=1920&q=75
+Name: Snapper 2
+
+Package: com.ali7assan.youtubereborn.rootless
+Version: 4.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lillie
+Installed-Size: 24784
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: ./debs/com.ali7assan.youtubereborn.rootless_4.1.2_iphoneos-arm64e.deb
+Size: 24556854
+MD5sum: fedbbca2e401ab77e675da020751bd70
+SHA1: ced07be91659e78de04dece59fe442051c148579
+SHA256: bae6a2fff16678f3af289dadfb50df55a7d44e166ef96ff13d5c2f87140aca0b
+Section: Roothide
+Author: Lillie
+Name: YouTube Reborn
+
+Package: com.creaturecoding.libcspreferences
+Version: 1.5.8
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2332
+Pre-Depends: rootless-compat(>= 0.1), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e.deb
+Size: 977886
+MD5sum: 0bdeb4f0bbfdb25b729e04729e312c17
+SHA1: 5a3a41bb88ee65f22d7413b880a73e6f18f34c39
+SHA256: 31aec2fb6b42a986a0b8c8ac6c74c2c7ff066c13114f1ac087e908ed60ded051
+Section: System
+Homepage: https://creaturecoding.com/
+Tag: compatible_min::iOS9
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+Name: libCSPreferences
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
+Package: com.creaturecoding.shuffle
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1484
+Pre-Depends: rootless-compat(>= 0.1), firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.creaturecoding.shuffle_1.6.2_iphoneos-arm64e.deb
+Size: 319658
+MD5sum: 32b60c9b287000fa60fdb984ae54189b
+SHA1: 01f5d7f04a99d2e3e0f07ae9ede7fe22098920db
+SHA256: b3d2148f9ba8b45f70decabe70f9ee38fe5afc7902d03f5bf4a18fe59352c937
+Section: Roothide
+Homepage: https://creaturecoding.com/
+Tag: purpose::extension, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Name: Shuffle
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+
+Package: com.kingpuffdaddi.notif
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.kingpuffdaddi.notif_1.1.3_iphoneos-arm64e.deb
+Size: 5354
+MD5sum: 50d3c7b0886ebc298885c33ed81c7828
+SHA1: 0fdcf142707b3242e7c6106e6542e391aba2cced
+SHA256: bfb4ab42ee17b11dcc1dcc1b639233b83ae0ffd882e9080da8bb7a14a9c64e9b
+Section: Roothide
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notifDp
+Tag: purpose::extension
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notifDp
+Dev: kingpuffdaddi
+Name: Notif
+
+Package: com.niceios.nicebarx16-bootstrap
+Version: 1.0.0.6-7
+Architecture: iphoneos-arm64e
+Maintainer: niceios
+Installed-Size: 9652
+Depends: mobilesubstrate,com.niceios.nicehelper-bootstrap(>=1.3),preferenceloader
+Filename: ./debs/com.niceios.nicebarx16-bootstrap_1.0.0.6-7_iphoneos-arm64e.deb
+Size: 2499954
+MD5sum: 9f9e2c971c8fed90468e18cc341065fd
+SHA1: 2c7e6f7e476ef4ad7e232abbf79f97e1f99e41e9
+SHA256: f4233f98eee0811fdabd79113902015fad237a06b1db1bfa73aaed94b5a36c48
+Section: Roothide
+Author: niceios
+Name: NiceBarX
+Sponsor: niceios
+
+Package: com.noisyflake.velvet2
+Version: 2.1.2-3
+Architecture: iphoneos-arm64e
+Maintainer: NoisyFlake <support@noisyflake.com>
+Installed-Size: 629
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Filename: ./debs/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64e.deb
+Size: 125942
+MD5sum: 73ddd386cf9eb2b78624d4fc23460439
+SHA1: 0f439b609eb75743efc6b3ebc736c78074368a29
+SHA256: 5880284fe777f565fba955d4d1a46c07d288e3459e1580db4596f6725923d09a
+Section: Roothide
+Tag: compatible_min::ios15.0
+Author: NoisyFlake <support@noisyflake.com>
+Depiction: https://chariz.com/get/velvet-2
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+Name: Velvet 2
+
+Package: com.skypain.ccrespring
+Version: 1.1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: ./debs/com.skypain.ccrespring_1.1.0-2_iphoneos-arm64e.deb
+Size: 13256
+MD5sum: ec44a38d9e9662f766e68e5a5b58c244
+SHA1: 2081e93423d2e4e9002d724cbf256b20766d21ab
+SHA256: bf8c32712f5ee50db5c9b775d6ca0d0a4ce861122458395018eea9221eebfa98
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccrespring
+Icon: https://skypain.github.io/repo/src/ccrespring/Icon.png
+Name: CCRespring
+Sileodepiction: https://skypain.github.io/repo/src/ccrespring/config/sileo/depiction.json
+
+Package: con.ali7assan.actionbarreborn
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Ali7assan
+Installed-Size: 796
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.ali7assan.actionbarreborn_1.1-1_iphoneos-arm64e.deb
+Size: 216450
+MD5sum: 5c99cdd0a14ec06a4e428e7576b6a8c1
+SHA1: aaa1a4c151edb5d7d8e736f832b25d9bde82a884
+SHA256: ebd005e13760a1bd1fc5fa531ee0f7c9192a20b749d0cbeaad3add8e6ebd3b01
+Section: Roothide
+Author: Netskao
+Name: ActionBar Reborn
+
+Package: me.axon.dakotarepo
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Baw Appie
+Installed-Size: 644
+Depends: mobilesubstrate, firmware (>= 16.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.axon.dakotarepo_1.0_iphoneos-arm64e.deb
+Size: 141074
+MD5sum: 2561e64bd53f173b48d2e9fdc9906f3d
+SHA1: 7fe42abd7673a249d34b45f10c388fe98694142a
+SHA256: 66d7105b73a3f1b5e00226abe87b4d1eb596b9b96a449c42576488c512711770
+Section: Roothide
+Author: Nepeta & Baw Appie
+Name: Axon iOS16
+
+Package: me.lau.atria
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Installed-Size: 886
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debs/me.lau.atria_1.4.1_iphoneos-arm64e.deb
+Size: 274724
+MD5sum: 1991290608758799b7c217a3ea1cc172
+SHA1: 1fadcf0dd334e38608e8797606bf0dd9c40ae614
+SHA256: ece8a8a1f3405c8ba394991b916755d02f3adb2f77c198a9a2255c7df025c059
+Section: Roothide
+Tag: compatible_min::ios13.0
+Author: ren7995 <lau7995ren@gmail.com>
+Depiction: https://chariz.com/get/atria
+Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
+Name: Atria
+
+Package: xyz.cypwn.events
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Installed-Size: 1828
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/xyz.cypwn.events_1.0_iphoneos-arm64e.deb
+Size: 1132218
+MD5sum: 583fbc13c76e17de45f2a5b704521a22
+SHA1: b03cb3c39e2aabd1635e466245147fa55594c2c6
+SHA256: e24d5a89284529ed2f527f97047e40f381f40e640b3e80db6478c37ef1d63a4a
+Section: Roothide
+Author: SGWC
+Depiction: https://repo.cypwn.xyz/depiction/1222
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/events.png
+Name: Events
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1222
+
+Package: xyz.cypwn.lynxtwo
+Version: 2.4.6
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Conflicts: com.mtac.lynxtwo
+Filename: ./debs/xyz.cypwn.lynxtwo_2.4.6_iphoneos-arm64e.deb
+Size: 949232
+MD5sum: e3b2447e923e295dae6b6f4937b407c6
+SHA1: bc700e8feff06b16d4e0181c255195a6db83cb6c
+SHA256: 9b9197c9fea5c0740f23b6199bd19c2ecae9add69cd9245af3176c88cce3be01
+Section: Roothide
+Author: MTAC
+Depiction: https://repo.cypwn.xyz/depiction/1785
+Name: Lynx 2
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1785
+
+Package: xyz.cypwn.satella
+Version: 1.9.0
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Installed-Size: 456
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/xyz.cypwn.satella_1.9.0_iphoneos-arm64e.deb
+Size: 89620
+MD5sum: 63975f02caca97065d5d3efac27323b4
+SHA1: b8b559a7606a9e09ad89db21000dffec69883b04
+SHA256: 0bb048988f91b4df8a55b0f95665b5a39786a2487cf307ac0175f46d40acfc55
+Section: Roothide (Piracy)
+Author: Paisseon
+Depiction: https://repo.cypwn.xyz/depiction/1570
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1570
+
