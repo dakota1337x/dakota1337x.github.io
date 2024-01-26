@@ -45,7 +45,7 @@ Size: 977886
 MD5sum: 0bdeb4f0bbfdb25b729e04729e312c17
 SHA1: 5a3a41bb88ee65f22d7413b880a73e6f18f34c39
 SHA256: 31aec2fb6b42a986a0b8c8ac6c74c2c7ff066c13114f1ac087e908ed60ded051
-Section: System
+Section: Roothide
 Homepage: https://creaturecoding.com/
 Tag: compatible_min::iOS9
 Author: CreatureSurvive <support@creaturecoding.com>
@@ -143,7 +143,7 @@ Size: 13256
 MD5sum: ec44a38d9e9662f766e68e5a5b58c244
 SHA1: 2081e93423d2e4e9002d724cbf256b20766d21ab
 SHA256: bf8c32712f5ee50db5c9b775d6ca0d0a4ce861122458395018eea9221eebfa98
-Section: Control Center (Modules)
+Section: Roothide
 Homepage: https://skypain.github.io/repo/
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Depiction: https://skypain.github.io/repo/static/view/?p=ccrespring
@@ -252,7 +252,7 @@ Size: 89620
 MD5sum: 63975f02caca97065d5d3efac27323b4
 SHA1: b8b559a7606a9e09ad89db21000dffec69883b04
 SHA256: 0bb048988f91b4df8a55b0f95665b5a39786a2487cf307ac0175f46d40acfc55
-Section: Roothide (Piracy)
+Section: Roothide
 Author: Paisseon
 Depiction: https://repo.cypwn.xyz/depiction/1570
 Icon: https://paisseon.github.io/icons/Satella.png
