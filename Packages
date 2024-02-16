@@ -259,3 +259,18 @@ Icon: https://paisseon.github.io/icons/Satella.png
 Name: Satella
 Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1570
 
+Package: me.axonrootless.dakotarepo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie
+Installed-Size: 644
+Depends: mobilesubstrate, firmware (>= 16.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.axonrootless.dakotarepo_1.0_iphoneos-arm64.deb
+Size: 141074
+MD5sum: 2561e64bd53f173b48d2e9fdc9906f3d
+SHA1: 7fe42abd7673a249d34b45f10c388fe98694142a
+SHA256: 66d7105b73a3f1b5e00226abe87b4d1eb596b9b96a449c42576488c512711770
+Section: Rootless
+Author: Nepeta & Baw Appie
+Name: Axon iOS16
